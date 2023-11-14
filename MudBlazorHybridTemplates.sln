@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp", "WpfApp\WpfApp.csproj", "{7F3B6B52-4458-4FF4-AA56-690B1AEF52BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorClassLib", "RazorClassLib\RazorClassLib.csproj", "{9245BFFD-C356-4BEA-93CA-EAEF75493D0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "Application\Application.csproj", "{9EFAE64C-E8CC-460B-ADAE-5435066D33A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F3B6B52-4458-4FF4-AA56-690B1AEF52BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F3B6B52-4458-4FF4-AA56-690B1AEF52BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F3B6B52-4458-4FF4-AA56-690B1AEF52BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F3B6B52-4458-4FF4-AA56-690B1AEF52BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9245BFFD-C356-4BEA-93CA-EAEF75493D0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9245BFFD-C356-4BEA-93CA-EAEF75493D0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9245BFFD-C356-4BEA-93CA-EAEF75493D0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9245BFFD-C356-4BEA-93CA-EAEF75493D0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EFAE64C-E8CC-460B-ADAE-5435066D33A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EFAE64C-E8CC-460B-ADAE-5435066D33A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EFAE64C-E8CC-460B-ADAE-5435066D33A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EFAE64C-E8CC-460B-ADAE-5435066D33A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
