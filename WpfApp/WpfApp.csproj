@@ -17,4 +17,9 @@
       <ProjectReference Include="..\RazorClassLib\RazorClassLib.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+      <None Remove="Assets\favicon.ico" />
+      <Resource Include="Assets\favicon.ico" />
+    </ItemGroup>
+
 </Project>
